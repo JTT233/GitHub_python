@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>images/beijing13.jpg</file>
+        <file>images/beijing6.jpg</file>
+        <file>images/111.jpg</file>
+        <file>images/zp.PNG</file>
+        <file>images/light_off1.png</file>
+        <file>images/light_on1.png</file>
+        <file>images/风扇.gif</file>
+        <file>images/风扇.png</file>
+    </qresource>
+</RCC>
